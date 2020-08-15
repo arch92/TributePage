@@ -1,9 +1,9 @@
 # Tribute Page
 
 
-It is a tribute page to Grace Hopper. 
+It is a tribute Page which is the front-end development project in FreeCodeCamp. The page shows the Timeline of events of life of Grace Hopper.
 
-The project uses only HTML and CSS. It shows the timeline of events of Grace Hopper.
+
 
 # Tools Used
 HTML5 <br/>
